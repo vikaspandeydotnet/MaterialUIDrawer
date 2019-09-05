@@ -1,2 +1,0 @@
-# MaterialUIDrawer
-Created with CodeSandbox
